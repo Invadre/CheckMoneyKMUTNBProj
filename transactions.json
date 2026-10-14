@@ -1,0 +1,23 @@
+[
+    {
+        "type": "income",
+        "amount": 800.0,
+        "category": "Job",
+        "description": "",
+        "date": "2026-10-14"
+    },
+    {
+        "type": "expense",
+        "amount": 100.0,
+        "category": "Food",
+        "description": "",
+        "date": "2026-10-14"
+    },
+    {
+        "type": "expense",
+        "amount": 100.0,
+        "category": "Life",
+        "description": "",
+        "date": "2026-10-14"
+    }
+]
